@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home</title>
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="https://use.typekit.net/qtq3sod.css">
+    <link rel="Login" href="file:///C:/Users/aaliy/OneDrive/Desktop/finance%20hackathon/financehackathon2html.html">
+</head>
+<body>
+    <header class="header">
+    <a href="#" class="logo">FinanceFree</a>
+    <nav class="navbar">
+        <a href="#">Home</a>
+        <a href="#">Transactions</a>
+        <a href="#">Settings</a>
+        <a href="#">Blogs</a>
+        <a href="file:///C:/Users/aaliy/OneDrive/Desktop/finance%20hackathon/financehackathon.html">
+            <button>Login</button>
+          </a>    </nav>
+</body>
+<body>
+    <a>Budget Commitments</a>
+    <a>Remaining Salary</a>
+    <a>Remaining Debts</a>
+</body>
